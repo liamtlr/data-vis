@@ -1,12 +1,28 @@
-.highlight {
-  color: #C64C6f;
-  font-weight: 600;
+
+
+.background {
+	background: #C9D7D6;
 }
 
-.item {
-  padding-left: 30px;
+.event-circle {
+	fill: #C61C6F;
 }
 
-.bigger {
-  font-size: 150%;
+.event-desc {
+	font-family: sans-serif;
+	font-size: 10px;
 }
+
+.event-detail-desc {
+	font-family: sans-serif;
+	font-size: 10px;
+}
+
+
+.tooltip {
+	position: absolute;
+	padding; 0 10px;
+	background: white;
+	opacity: 0;
+}
+
